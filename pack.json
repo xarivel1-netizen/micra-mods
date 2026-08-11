@@ -1,7 +1,7 @@
 {
   "name": "Create Aero with Friends",
   "mcVersion": "1.21.1",
-  "neoforgeVersion": "latest",
+  "neoforgeVersion": "21.1.235",
   "serverIp": "213.171.18.150",
   "serverPort": 33155
 }
