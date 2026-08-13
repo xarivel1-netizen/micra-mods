@@ -249,6 +249,11 @@
       "name": "vista-neoforge-1.21.1-5.1.2.jar",
       "sha1": "beb0f0b76c0fd0fec340b78956a9c5c631b80a1b",
       "size": 5710864
+    },
+    {
+      "name": "voicechat-neoforge-1.21.1-2.6.6.jar",
+      "sha1": "4ec23888ba68fe2b336f571c1d67de9ee25024c9",
+      "size": 4870236
     }
   ]
 }
