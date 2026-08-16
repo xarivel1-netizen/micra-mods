@@ -2,99 +2,99 @@
   "files": [
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/12g.json",
-      "sha1": "b86984de7468d465b55e2ac7380c0355d1d914f0"
+      "sha1": "463063c51a75a0fce82c7b0041571a5c3d404e1c"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/22wmr.json",
-      "sha1": "8ca73b9fe580254febf25e578e85233d55f689f2"
+      "sha1": "cd8b04eec9a7e9de4052f0ce3ede8d7c1c75a84f"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/30_06.json",
-      "sha1": "58cbeaf4e806b400bbe5528f0095c81529b7fcee"
+      "sha1": "02ef55718000697b0f58282e0a892435f0ea0423"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/308.json",
-      "sha1": "fcda93ecb5dc98ae8b24e84de6e8849290acadb8"
+      "sha1": "e124cc662b568b827cb067572b6b00e5480cc7c8"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/338.json",
-      "sha1": "cbea982d748db7544a1b798efa1127aebfedd167"
+      "sha1": "d9f8869deff7dbb5940931d46a6684ec34b3737c"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/357mag.json",
-      "sha1": "aa07c443cb13116ee847ef65be748b5ddd97779f"
+      "sha1": "b81909d3acd69116ccdefe040aee19b6e75567b0"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/40mm.json",
-      "sha1": "6e28ddf26b81062e57728146061686125d2033c5"
+      "sha1": "ef265e060e67d9c33554457ac3b8ece527ab8951"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/45_70.json",
-      "sha1": "4cee474927f25a686b7788e10b9ec8efe3457209"
+      "sha1": "d0856175c3959fcd4995d5245a89883d11cf0b36"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/45acp.json",
-      "sha1": "66849c5fac7424722de9b46fb75d3efe639795e1"
+      "sha1": "69faa219bcd53398fb17637c21ac8feebac1c5c0"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/46x30.json",
-      "sha1": "f376e8cdbec63ac58c0191b389e457dff7d2fce4"
+      "sha1": "a6c1bdb4625ca3a04507e7c9aadd877250b0129a"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/500mag.json",
-      "sha1": "83a2c72cbdf276adc88fb858a1653c9b71e623ac"
+      "sha1": "cfb9c72b9e0785f42132c0f6c72863f2730a0399"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/50ae.json",
-      "sha1": "bc6cdbe1c2bd7b9f56bbedd76da5b83da709796c"
+      "sha1": "603cb997ebc6acf40d859c468d39de8a7bcfdfff"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/50bmg.json",
-      "sha1": "7188f43ad66a88c5b8b74370495d7847d30c87c5"
+      "sha1": "c54b70858d46384a302cd1dcbed689ae017e95fe"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/545x39.json",
-      "sha1": "99266d16e0d5f415190ea1852bf4565672bfb43d"
+      "sha1": "f26c4a546ac3d3861e0cfe10d2acf498ec702e2a"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/556x45.json",
-      "sha1": "34556314cae9926869240cfcba7825c1f9f0853d"
+      "sha1": "5a05c405c3b40ba50984642a4a8d738b2206d8f5"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/57x28.json",
-      "sha1": "00a8099953b12df87e67d061cee3c59d4fa16898"
+      "sha1": "7eaf8854f91912a2a92b4ad5f6ea02e030d095ba"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/58x42.json",
-      "sha1": "02c2799890f5fca42cc49cb222b68b6deb00ce0c"
+      "sha1": "65807439c2938bec39779c117a1113b6d21bafab"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/68x51fury.json",
-      "sha1": "421451eb66041b2ed284e547b52978cc32cabd7e"
+      "sha1": "b832a739a338aea750e1d53845a27ee5f27df50d"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x25.json",
-      "sha1": "8c7a93c4cd9b3c94e0f1b87648adaf97fe83409f"
+      "sha1": "118304a3709f4f00de728dd9d71419b711ec424f"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x39.json",
-      "sha1": "a7d764fc7efa2aefcd35d108aa9ca8b998e358fc"
+      "sha1": "7c24a4a76f23da499f3954034c4900f35b8b5a25"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x54.json",
-      "sha1": "c2daa028e96e80da505806a6af66e397e9b0ffe4"
+      "sha1": "cbdb5fc0eeec8cf2c218a141121d6d24e318d5ba"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/792x57.json",
-      "sha1": "cf5dd44b625c464428cb1f1fe305fccadcf699e4"
+      "sha1": "4ddefacefa512badeeb6e72a1a19fc7fb1ae08f9"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/9mm.json",
-      "sha1": "b8f94ac21ac812351ff95aba454075dc28360d02"
+      "sha1": "bd10dd75cd9b5c564aff4d0d4310b1e4789811a8"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/rpg_rocket.json",
-      "sha1": "3b2cd7d65dba1ef1f0e30e86bef283abba5fa3c4"
+      "sha1": "b94dea55d42ae0de8a8c76a63cb961385f7d4d99"
     },
     {
       "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_fmj.json",

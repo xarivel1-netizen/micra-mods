@@ -92,9 +92,9 @@ function attachMats(id) {
   return [ANDESITE(4), BRASS(3)]; // fallback
 }
 
-const MULT = 4; // global difficulty multiplier applied to every material count
+const MULT = 4; // difficulty multiplier for guns + attachments (ammo stays x1)
 
-function emit(cat, matFn) {
+function emit(cat, matFn, mult = 1) {
   const inDir = path.join(SRC, cat);
   const outDir = path.join(OUT, cat);
   fs.mkdirSync(outDir, { recursive: true });
@@ -102,7 +102,7 @@ function emit(cat, matFn) {
   for (const f of fs.readdirSync(inDir).filter(f => f.endsWith(".json"))) {
     const id = f.replace(/\.json$/, "");
     const recipe = JSON.parse(fs.readFileSync(path.join(inDir, f), "utf8"));
-    recipe.materials = matFn(id).map(m => ({ ...m, count: m.count * MULT })); // swap + scale
+    recipe.materials = matFn(id).map(m => ({ ...m, count: m.count * mult })); // swap + scale
     fs.writeFileSync(path.join(outDir, f), JSON.stringify(recipe, null, 2) + "\n");
     n++;
   }
@@ -111,7 +111,7 @@ function emit(cat, matFn) {
 
 fs.mkdirSync(OUT, { recursive: true });
 
-const g = emit("gun", id => GUN_TIER[gunTier(id)]());
-const a = emit("ammo", id => AMMO_TIER[ammoTier(id)]());
-const at = emit("attachments", attachMats);
+const g = emit("gun", id => GUN_TIER[gunTier(id)](), MULT);
+const a = emit("ammo", id => AMMO_TIER[ammoTier(id)](), 1);   // ammo not scaled
+const at = emit("attachments", attachMats, MULT);
 console.log(`hardcore recipes: guns=${g} ammo=${a} attachments=${at}`);
