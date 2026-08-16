@@ -9,7 +9,9 @@ const path = require("path");
 const APPDATA = process.env.APPDATA || "C:/Users/User/AppData/Roaming";
 const SRC = path.join(APPDATA, ".micra", "game", "tacz",
   "tacz_default_gun", "data", "tacz", "recipe");
-const PACK = path.join(__dirname, "..", "overlay", "tacz", "universe_hardcore");
+// Overwrite the recipe files INSIDE the default pack — TACZ ignores a separate
+// override pack (issue #267), but reads edited files in tacz_default_gun.
+const PACK = path.join(__dirname, "..", "overlay", "tacz", "tacz_default_gun");
 const OUT = path.join(PACK, "data", "tacz", "recipe");
 
 // material helpers
@@ -106,10 +108,6 @@ function emit(cat, matFn) {
 }
 
 fs.mkdirSync(OUT, { recursive: true });
-// pack meta so TACZ loads it as a gun pack (same namespace ⇒ overrides default recipes)
-fs.writeFileSync(
-  path.join(PACK, "gunpack.meta.json"),
-  JSON.stringify({ namespace: "tacz" }, null, 2) + "\n");
 
 const g = emit("gun", id => GUN_TIER[gunTier(id)]());
 const a = emit("ammo", id => AMMO_TIER[ammoTier(id)]());

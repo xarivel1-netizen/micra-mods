@@ -1,696 +1,692 @@
 {
   "files": [
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/12g.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/12g.json",
       "sha1": "463063c51a75a0fce82c7b0041571a5c3d404e1c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/22wmr.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/22wmr.json",
       "sha1": "cd8b04eec9a7e9de4052f0ce3ede8d7c1c75a84f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/30_06.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/30_06.json",
       "sha1": "02ef55718000697b0f58282e0a892435f0ea0423"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/308.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/308.json",
       "sha1": "e124cc662b568b827cb067572b6b00e5480cc7c8"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/338.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/338.json",
       "sha1": "d9f8869deff7dbb5940931d46a6684ec34b3737c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/357mag.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/357mag.json",
       "sha1": "b81909d3acd69116ccdefe040aee19b6e75567b0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/40mm.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/40mm.json",
       "sha1": "ef265e060e67d9c33554457ac3b8ece527ab8951"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/45_70.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/45_70.json",
       "sha1": "d0856175c3959fcd4995d5245a89883d11cf0b36"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/45acp.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/45acp.json",
       "sha1": "69faa219bcd53398fb17637c21ac8feebac1c5c0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/46x30.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/46x30.json",
       "sha1": "a6c1bdb4625ca3a04507e7c9aadd877250b0129a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/500mag.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/500mag.json",
       "sha1": "cfb9c72b9e0785f42132c0f6c72863f2730a0399"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/50ae.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/50ae.json",
       "sha1": "603cb997ebc6acf40d859c468d39de8a7bcfdfff"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/50bmg.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/50bmg.json",
       "sha1": "c54b70858d46384a302cd1dcbed689ae017e95fe"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/545x39.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/545x39.json",
       "sha1": "f26c4a546ac3d3861e0cfe10d2acf498ec702e2a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/556x45.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/556x45.json",
       "sha1": "5a05c405c3b40ba50984642a4a8d738b2206d8f5"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/57x28.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/57x28.json",
       "sha1": "7eaf8854f91912a2a92b4ad5f6ea02e030d095ba"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/58x42.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/58x42.json",
       "sha1": "65807439c2938bec39779c117a1113b6d21bafab"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/68x51fury.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/68x51fury.json",
       "sha1": "b832a739a338aea750e1d53845a27ee5f27df50d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/762x25.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x25.json",
       "sha1": "118304a3709f4f00de728dd9d71419b711ec424f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/762x39.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x39.json",
       "sha1": "7c24a4a76f23da499f3954034c4900f35b8b5a25"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/762x54.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/762x54.json",
       "sha1": "cbdb5fc0eeec8cf2c218a141121d6d24e318d5ba"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/792x57.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/792x57.json",
       "sha1": "4ddefacefa512badeeb6e72a1a19fc7fb1ae08f9"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/9mm.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/9mm.json",
       "sha1": "bd10dd75cd9b5c564aff4d0d4310b1e4789811a8"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/ammo/rpg_rocket.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/ammo/rpg_rocket.json",
       "sha1": "b94dea55d42ae0de8a8c76a63cb961385f7d4d99"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/ammo_mod_fmj.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_fmj.json",
       "sha1": "b2093393c06458fde0af365a2e14246695e0de95"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/ammo_mod_he.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_he.json",
       "sha1": "4fff4780a4a5d3665ad65660f07b68714f4be991"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/ammo_mod_hp.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_hp.json",
       "sha1": "386c0ad987d73811cfbd993401b76a37c5616e50"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/ammo_mod_i.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_i.json",
       "sha1": "4e916e2000558c8ba530d8eb5a6e95070fcc1aa0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/ammo_mod_slug.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/ammo_mod_slug.json",
       "sha1": "bbf3dd3b2ead136dbb4ec80c6cfc0cf31a27c983"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/bayonet_6h3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/bayonet_6h3.json",
       "sha1": "e0d148def9ec1b83e9ea673aa11ef9b441670a34"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/bayonet_m9.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/bayonet_m9.json",
       "sha1": "2a13e83684b1dd2470afdf9c9cde56933b539ab8"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/deagle_golden_long_barrel.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/deagle_golden_long_barrel.json",
       "sha1": "ff426ed4c988502762dd05fcef4600627bb40d13"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/extended_mag_1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/extended_mag_1.json",
       "sha1": "8caf6203daa83601c102d93807d6eeadc5ad63f9"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/extended_mag_2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/extended_mag_2.json",
       "sha1": "17fca15495db7461f3e4aeb764af50cb382e7137"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/extended_mag_3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/extended_mag_3.json",
       "sha1": "31c6b4d1536df9a6b3102691c23faac754393f25"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_cobra.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_cobra.json",
       "sha1": "4981656ead026551a4453b7ec4a5a7d834a5011d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_magpul_afg_2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_magpul_afg_2.json",
       "sha1": "5f6b35324e88a05f78abb03b5c42d4afb687f683"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_osovets_black.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_osovets_black.json",
       "sha1": "8f6f0ddf428d5ceea3cef1e93db502b672bd9e92"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_rk0.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_rk0.json",
       "sha1": "26e5f3eb826221aea54020393c40b7a243584324"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_rk1_b25u.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_rk1_b25u.json",
       "sha1": "28ecb07db0e4b05e47b01579c0a30597ce07e5e6"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_rk6.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_rk6.json",
       "sha1": "beeaa965979762250c891afd37b51366bebb9c21"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_se_5.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_se_5.json",
       "sha1": "db4021a65cf81a4d7ac6c362e61dc0d1744f22f0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_td.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_td.json",
       "sha1": "173fb4a12091d673257a6a5db8751b480f14923a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_vertical_military.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_vertical_military.json",
       "sha1": "34c5bd8affa3c3e67ac0b433ca03aaeaf6155d76"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_vertical_ranger.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_vertical_ranger.json",
       "sha1": "0e78f712ffa8e01ab662c8280f324370d661d482"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/grip_vertical_talon.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/grip_vertical_talon.json",
       "sha1": "b0955f4f33e398adc633b65eff3c4bce21a7a4e1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/laser_compact.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/laser_compact.json",
       "sha1": "1a4ac1749abcf00b60a48f8dd983594003a1c531"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/laser_lopro.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/laser_lopro.json",
       "sha1": "a423d276c89ad01c924a084a29b489a281ae4fe5"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/laser_nightstick.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/laser_nightstick.json",
       "sha1": "f3e0e87a06d7b886a296be91331eae8a04f6852d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/laser_peq6.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/laser_peq6.json",
       "sha1": "d7a3a4f1f1520b41d6d88180b1ac2e9778fee5b4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/light_extended_mag_1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/light_extended_mag_1.json",
       "sha1": "cfb4e919d6f85da131aad7912b1cfe615741bb60"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/light_extended_mag_2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/light_extended_mag_2.json",
       "sha1": "55668629bef9b2626dcfbd8e6d4cafd5e7a59a7a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/light_extended_mag_3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/light_extended_mag_3.json",
       "sha1": "b8fd4b9986e2d1b97cd340d514f269eaf17f5ba0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_cthulhu.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_cthulhu.json",
       "sha1": "e5ac2f06a71a098de2537dd27ef22bbc7144564f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_cyclone_d2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_cyclone_d2.json",
       "sha1": "307ddce8f0b67a75fe74069069898b6600fcf7f1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_mastiff_sg.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_mastiff_sg.json",
       "sha1": "87670de4810cce29ee82f6218508edf56dee2aea"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_pioneer.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_pioneer.json",
       "sha1": "57e304ccc1729ee1e0ee98b8bb0222940bfc7509"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_timeless50.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_timeless50.json",
       "sha1": "01735e0068bc094bb4cb1ae32bdb9999935e653a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_brake_trex.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_brake_trex.json",
       "sha1": "7901fa58d3a70c41f1dcb7551e910e7c1b0b023d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_choke_sg.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_choke_sg.json",
       "sha1": "38495eeddf8694768fd694b1a5b0c86a75b1e8c0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_compensator_trident.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_compensator_trident.json",
       "sha1": "c085efb97dab08c5b2d23c0d135a2e6940d63ca4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_knight_qd.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_knight_qd.json",
       "sha1": "943ec248e42be69863fd7bdfc0fd9ca9e3a0e303"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_mirage.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_mirage.json",
       "sha1": "91440e0b60f74d0a4ece983e304c2581c55359be"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_phantom_s1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_phantom_s1.json",
       "sha1": "f7a0480d10e5105aef4e1f396ddf8bac3d42647b"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_ptilopsis.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_ptilopsis.json",
       "sha1": "f6c1d725232b1b66eb976fb52e332c36c6c1fa5a"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_sg.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_sg.json",
       "sha1": "72abd1c339bc90236b6246d2f2f074489fd0e7c4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_ursus.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_ursus.json",
       "sha1": "3ca57e35f416323c57f2ceeeb4e291dee260593d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_vulture.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_vulture.json",
       "sha1": "64a105eca3e9211b9f214ee089d14f8acc9b3aaf"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/muzzle_silencer_wraith.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/muzzle_silencer_wraith.json",
       "sha1": "7b63ff7d5197f91281047ad9c6c568f3579ad3f3"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/oem_stock_heavy.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/oem_stock_heavy.json",
       "sha1": "d3307531ac3b114500acea6e31eb2031dcccbce4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/oem_stock_light.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/oem_stock_light.json",
       "sha1": "15cbbe201d6a0b0feb19998a662baf2eac860b46"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/oem_stock_tactical.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/oem_stock_tactical.json",
       "sha1": "e949ad2bea1e8c38d7bd2c614b398ba854a98823"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_1873_6x.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_1873_6x.json",
       "sha1": "be0039070e321fe6f4b1b6c3eed1218f9a38adc6"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_98k.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_98k.json",
       "sha1": "c18a3b78337d6440a6cfb8d783e695d2feb17f15"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_acog_ta31.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_acog_ta31.json",
       "sha1": "59d7992c0ddf4fd2e98149e154c2c6668abcf6b0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_contender.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_contender.json",
       "sha1": "cb6827dde37c7224958e468db3c9cb415e32fe45"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_elcan_4x.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_elcan_4x.json",
       "sha1": "152d47c5e59e38c156c5abf5e57002ca911c8be9"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_hamr.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_hamr.json",
       "sha1": "794489912e474197c3ea81b95fdfa0a49a020e9f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_lpvo_1_6.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_lpvo_1_6.json",
       "sha1": "ac9e018776a317698242cc0d14bcb5aec3610c5f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_mk5hd.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_mk5hd.json",
       "sha1": "4aafe9485c04a7dc69f309dfddc3109dd0e5ec08"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_qmk152.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_qmk152.json",
       "sha1": "8491047bd06947b344576eb5749e857fccdcfb7d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_retro_2x.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_retro_2x.json",
       "sha1": "22e2cee628d1bbedc52ce4128c470f1a270bf35c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_standard_8x.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_standard_8x.json",
       "sha1": "7586d10e22ebf7f32786333c598677a34ba8cfb8"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/scope_vudu.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/scope_vudu.json",
       "sha1": "306561a40f259aa2cd17925e6fb080e478524e0e"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/shotgun_extended_mag_1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/shotgun_extended_mag_1.json",
       "sha1": "8e99717da94ae9dcb74d8aaf5080a34e70eee65c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/shotgun_extended_mag_2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/shotgun_extended_mag_2.json",
       "sha1": "6c2eeb272eead2389f6a76439a5dbfbb05b36751"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/shotgun_extended_mag_3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/shotgun_extended_mag_3.json",
       "sha1": "1b090094bf0c999270c91dc8dcc1464a3d5afafd"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_552.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_552.json",
       "sha1": "0316416209d41ed1038241363bc2b460018c7b5f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_acro_pistol.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_acro_pistol.json",
       "sha1": "caeafb4bf8e47bbbb51302f7befcbdd69e905066"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_acro_rifle.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_acro_rifle.json",
       "sha1": "ecd95b78471b6445f0d2e5e30e0df8e367742814"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_coyote.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_coyote.json",
       "sha1": "30727b8ae3b1928ee21d35ce4eb4e03cd14e8361"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_deltapoint_pistol.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_deltapoint_pistol.json",
       "sha1": "1e68f4c61b16cc07f14a27240017f3c653d833b9"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_deltapoint_rifle.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_deltapoint_rifle.json",
       "sha1": "eae71ef7274a82484b0c34976bceb4cdaea1d09b"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_exp3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_exp3.json",
       "sha1": "ff08aee2bcee14f58943f3cd103a4b029d44cdb1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_fastfire_pistol.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_fastfire_pistol.json",
       "sha1": "0d7f7ac6cee5573d1995a052eec24e4a3ad36e42"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_fastfire_rifle.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_fastfire_rifle.json",
       "sha1": "f4f2e4fb60418dfca811a50d6cc57f9d3303bb06"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_okp7.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_okp7.json",
       "sha1": "4448493635649e02e2efd966c8728f995bd28822"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_pk06_pistol.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_pk06_pistol.json",
       "sha1": "fbcaf601fcc96af72de4299242d105e49fe36c9d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_pk06_rifle.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_pk06_rifle.json",
       "sha1": "baa6e286d40ccb3281a7ccb118838ef6493c7929"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_rmr_dot.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_rmr_dot.json",
       "sha1": "d7a73594c3e439e19c57a302d5ea197ae7ec549f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_sro_dot.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_sro_dot.json",
       "sha1": "b45bffd6330ab63179405f00e2f3de8deb47561d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_srs_02.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_srs_02.json",
       "sha1": "a608707eb95d1cbcd3f288f3e535b52311525dca"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_t1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_t1.json",
       "sha1": "ac621d517812069d2158b67fa337115fc04a06a4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_t2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_t2.json",
       "sha1": "2efe9a646285b4615071f700be11e1b3ecc5f06f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sight_uh1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sight_uh1.json",
       "sha1": "ee600819cb0d9012968d7514ffa7b875a79afa38"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sniper_extended_mag_1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sniper_extended_mag_1.json",
       "sha1": "7dc13c1b4ba5ddf8030b25d236cdf6b4b64a6f34"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sniper_extended_mag_2.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sniper_extended_mag_2.json",
       "sha1": "f3e626c702f3d87e6e5cc3325b57dbfbe6848d31"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/sniper_extended_mag_3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/sniper_extended_mag_3.json",
       "sha1": "291522ff0aa244fbf8a192b0e61fe2e7b00a78ff"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_ak12.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_ak12.json",
       "sha1": "3620a52612e47f90b246d35905f2667846ba0b43"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_carbon_bone_c5.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_carbon_bone_c5.json",
       "sha1": "e2d118e3d050af0e93d0bc3e79f3a81506b48ee4"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_heavy_spas_12.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_heavy_spas_12.json",
       "sha1": "e0a28235bd8ff57af9b684d48fc15c321475aa32"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_hk_slim_line.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_hk_slim_line.json",
       "sha1": "9a6a272254af347bae59dc62b2d559cfc74055b6"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_m4ss.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_m4ss.json",
       "sha1": "f933842907615c4db55f64344dbe8437d661ee23"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_militech_b5.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_militech_b5.json",
       "sha1": "35ecfb6db7d69a01502a931b6c3a5b29237e1234"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_moe.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_moe.json",
       "sha1": "6e12fcf512a6c4a5ba7f93a66014e6b6691515e1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_ripstock.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_ripstock.json",
       "sha1": "17ca3b46b0a092c1d9f5c64bd243a444f4d8290b"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_sba3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_sba3.json",
       "sha1": "2d29a44b386287d4e8efe61a710e28118bd8dbb7"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_tactical_ar.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_tactical_ar.json",
       "sha1": "485ff3571900d8056fd6be18a5f1c31827dd3630"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/attachments/stock_tactical_spas_12.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/attachments/stock_tactical_spas_12.json",
       "sha1": "f7f5b7066133e5416d4d11ca7e86b3a64c1da27d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/aa12.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/aa12.json",
       "sha1": "47d074238a1a93f8b9246b9378f95b02f9b345e7"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/ai_awp.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/ai_awp.json",
       "sha1": "e62672cde187af401a4740f7517e7396dcae24ea"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/ak47.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/ak47.json",
       "sha1": "053cb3e0ea36f3d6b765834aa2d26075bc190f8f"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/aug.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/aug.json",
       "sha1": "f43943f7d733002374023b816a6bcc02b7bf8fa6"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/b93r.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/b93r.json",
       "sha1": "8860def35bd0976c55b945122597779af7d2cd06"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/cz75.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/cz75.json",
       "sha1": "5cadd90a3ff6fe95462068fd2efcec1abc8113b1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/db_long.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/db_long.json",
       "sha1": "6ae287997728df3e6d8988ebd3a6ac3ed7062711"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/db_short.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/db_short.json",
       "sha1": "ada4dbbdea7ded17cbcb0b941a7012b5ca26a066"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/deagle_golden.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/deagle_golden.json",
       "sha1": "9f48d36435ecc2a2919beb0177134523834f1d04"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/deagle.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/deagle.json",
       "sha1": "47c77a72c6eb7ad6db0e32a25acb66cc35006b6e"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/fn_evolys.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/fn_evolys.json",
       "sha1": "6ed40525c10f4be35cfeeebf492290478cc4ceb1"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/fn_fal.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/fn_fal.json",
       "sha1": "87d2cf837f96b36246e6f4584ed14b98afd86f52"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/g36k.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/g36k.json",
       "sha1": "716073b6a61e715436877cc7787ad20241f99d8d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/glock_17.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/glock_17.json",
       "sha1": "b766b2b0305cc9730cf0c7afb53d6c06322841b8"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/hk_g3.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/hk_g3.json",
       "sha1": "a4e775b3e9909ce1aa91c21924e4666d98fc2988"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/hk_mk23.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/hk_mk23.json",
       "sha1": "7e7d11d3cd5eadc649ff8dc4fa0b32e487abc8dc"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/hk_mp5a5.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/hk_mp5a5.json",
       "sha1": "acd48e0033af6ec066a2e76364f49aa1be27c38c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/hk416d.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/hk416d.json",
       "sha1": "0e98ea4b9c37312129bfa14168ce2b2a35cfb4fe"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/kar98.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/kar98.json",
       "sha1": "1b466ac6462a0e04ac6acfc09c1d12614f452824"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/lonetrail.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/lonetrail.json",
       "sha1": "2c61a8011456b1f67834cc8a3c31db3e6fa1c4a2"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m1014.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m1014.json",
       "sha1": "f59791a2d3720922c986fd50b3128a4ac8db7e98"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m107.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m107.json",
       "sha1": "74a021fb744c8fd5555f4042065dfca20b1b99fc"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m16a1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m16a1.json",
       "sha1": "e669d74607863603db6a1197c7848672c28c0ad5"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m16a4.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m16a4.json",
       "sha1": "fe2774d4cabe0d2901c005d75c8c32b0d0701a6b"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m1911.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m1911.json",
       "sha1": "dff9d9ab55e2dbed89204751fdd830c4c95b7bfe"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m249.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m249.json",
       "sha1": "58653a387630a4b1d20b3adcdf9e29339a5115ef"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m320.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m320.json",
       "sha1": "398debf4089566721c947d3b490464025bdb2e93"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m4a1.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m4a1.json",
       "sha1": "915b2b0e211e3623633a1774cdf979b5b5f56936"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m700.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m700.json",
       "sha1": "4a4876432393414ec9ca63eb1111f675af0d83ab"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m870.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m870.json",
       "sha1": "9eab5866e1507c610f2248df014750b34992911d"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m95.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m95.json",
       "sha1": "40de7c61d66e5ffb223ddeaa2a7789e2a3f3a1f0"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/m9a4.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/m9a4.json",
       "sha1": "378006cc1d8dc31108700831853bc96f46e260f7"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/minigun.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/minigun.json",
       "sha1": "db0fe37ae24f8db7510b1a6cbbf600b02f6efc46"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/mk14.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/mk14.json",
       "sha1": "b9b7d9f86e93cee5548dca3f8330442b3f38c6ee"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/p320.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/p320.json",
       "sha1": "96186c0115ba5bb8846b58b4cc4e9bc8860df929"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/p90.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/p90.json",
       "sha1": "d73dc4d80a4b311658ffbf3fe18d0918ef76781b"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/qbz_191.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/qbz_191.json",
       "sha1": "5c0376e5a721cf9e1ae7485fc34fac7c3b4cdfea"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/qbz_95.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/qbz_95.json",
       "sha1": "ff562104545f96d4b3ba229567fcbc1b0d79b1db"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/rhino357.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/rhino357.json",
       "sha1": "f02f100b5dbeca2f4b35aa793815cde1c5515fd3"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/rpg7.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/rpg7.json",
       "sha1": "081094868c5b5db9b92ace2c95212919a6c2d463"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/rpk.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/rpk.json",
       "sha1": "9351995c2bc43e0bbe97b774ad2b44ab581f3651"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/scar_h.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/scar_h.json",
       "sha1": "b97e75f982d9737f6f155bb54e90312ecb78c8ab"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/scar_l.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/scar_l.json",
       "sha1": "a2e072bf92d70253cda24f2ff505be7003251fae"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/sks_tactical.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/sks_tactical.json",
       "sha1": "fe1a01b152f0ddb824b18dce7ed071cbd3dd3eaf"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/spas_12.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/spas_12.json",
       "sha1": "33a785c7b6dd2d573843c9a0f610774949b2ed3c"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/spr15hb.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/spr15hb.json",
       "sha1": "353d65efa2c2f43bc601e5d18c3afb3d64ae0535"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/springfield1873.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/springfield1873.json",
       "sha1": "9c07e3d5e65a1b9a2fb7350c1c3f77248524fe74"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/taurus500.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/taurus500.json",
       "sha1": "05874955b0a426d9a9ff0f3babe4144308d47e70"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/timeless50.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/timeless50.json",
       "sha1": "85339c5dfd6be9a1f9a94b3913c1dffa1df456a9"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/type_81.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/type_81.json",
       "sha1": "d76bf2830676d148ffcc80a42d6e103aac441564"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/ump45.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/ump45.json",
       "sha1": "ac9a3b61e2a69a1cd25a1e01422d75ac74456a36"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/uzi.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/uzi.json",
       "sha1": "26a85e36c80d411ee3893343e38cabaa94ee55fc"
     },
     {
-      "path": "tacz/universe_hardcore/data/tacz/recipe/gun/vector45.json",
+      "path": "tacz/tacz_default_gun/data/tacz/recipe/gun/vector45.json",
       "sha1": "fefabde1be5ce638a823a645413ac745d1383b97"
-    },
-    {
-      "path": "tacz/universe_hardcore/gunpack.meta.json",
-      "sha1": "e1d10e1160b01f082d60b0314f26131dd2e2114f"
     }
   ]
 }
