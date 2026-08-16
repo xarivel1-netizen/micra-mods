@@ -92,6 +92,8 @@ function attachMats(id) {
   return [ANDESITE(4), BRASS(3)]; // fallback
 }
 
+const MULT = 4; // global difficulty multiplier applied to every material count
+
 function emit(cat, matFn) {
   const inDir = path.join(SRC, cat);
   const outDir = path.join(OUT, cat);
@@ -100,7 +102,7 @@ function emit(cat, matFn) {
   for (const f of fs.readdirSync(inDir).filter(f => f.endsWith(".json"))) {
     const id = f.replace(/\.json$/, "");
     const recipe = JSON.parse(fs.readFileSync(path.join(inDir, f), "utf8"));
-    recipe.materials = matFn(id);            // swap materials, keep result/type/count/group
+    recipe.materials = matFn(id).map(m => ({ ...m, count: m.count * MULT })); // swap + scale
     fs.writeFileSync(path.join(outDir, f), JSON.stringify(recipe, null, 2) + "\n");
     n++;
   }

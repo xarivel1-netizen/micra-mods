@@ -4,19 +4,19 @@
       "item": {
         "item": "create:iron_sheet"
       },
-      "count": 6
+      "count": 24
     },
     {
       "item": {
         "item": "create:andesite_alloy"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 2
+      "count": 8
     }
   ],
   "result": {

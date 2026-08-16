@@ -4,19 +4,19 @@
       "item": {
         "item": "create:electron_tube"
       },
-      "count": 1
+      "count": 4
     },
     {
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 3
+      "count": 12
     },
     {
       "item": {
         "tag": "c:dusts/redstone"
       },
-      "count": 8
+      "count": 32
     }
   ],
   "result": {

@@ -4,19 +4,19 @@
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 10
+      "count": 40
     },
     {
       "item": {
         "tag": "c:gunpowders"
       },
-      "count": 10
+      "count": 40
     },
     {
       "item": {
         "item": "create:andesite_alloy"
       },
-      "count": 4
+      "count": 16
     }
   ],
   "result": {

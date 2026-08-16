@@ -4,31 +4,31 @@
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 16
+      "count": 64
     },
     {
       "item": {
         "item": "create:precision_mechanism"
       },
-      "count": 8
+      "count": 32
     },
     {
       "item": {
         "item": "create:electron_tube"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "aeroworks:yoke_module"
       },
-      "count": 2
+      "count": 8
     },
     {
       "item": {
         "item": "minecraft:netherite_ingot"
       },
-      "count": 2
+      "count": 8
     }
   ],
   "result": {

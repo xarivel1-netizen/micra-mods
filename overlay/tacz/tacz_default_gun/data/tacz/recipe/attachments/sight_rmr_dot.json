@@ -4,19 +4,19 @@
       "item": {
         "tag": "c:glass_panes"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "create:electron_tube"
       },
-      "count": 1
+      "count": 4
     }
   ],
   "result": {

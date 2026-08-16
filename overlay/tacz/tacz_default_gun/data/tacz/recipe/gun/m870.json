@@ -4,25 +4,25 @@
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 12
+      "count": 48
     },
     {
       "item": {
         "item": "create:iron_sheet"
       },
-      "count": 14
+      "count": 56
     },
     {
       "item": {
         "item": "create:precision_mechanism"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "create:electron_tube"
       },
-      "count": 1
+      "count": 4
     }
   ],
   "result": {

@@ -4,25 +4,25 @@
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 24
+      "count": 96
     },
     {
       "item": {
         "item": "create:precision_mechanism"
       },
-      "count": 10
+      "count": 40
     },
     {
       "item": {
         "item": "create:electron_tube"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "item": "aeroworks:yoke_module"
       },
-      "count": 2
+      "count": 8
     }
   ],
   "result": {

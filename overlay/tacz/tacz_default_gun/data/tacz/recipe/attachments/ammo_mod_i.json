@@ -4,13 +4,13 @@
       "item": {
         "item": "create:brass_sheet"
       },
-      "count": 4
+      "count": 16
     },
     {
       "item": {
         "tag": "c:gunpowders"
       },
-      "count": 6
+      "count": 24
     }
   ],
   "result": {
