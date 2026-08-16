@@ -96,6 +96,11 @@
       "size": 180932
     },
     {
+      "name": "createimmersivetacz-1.6-neoforge.jar",
+      "sha1": "d5b810b76dc6c25c7c33a1364692e5b5e3b0a6a0",
+      "size": 87888
+    },
+    {
       "name": "createpropulsion-1.1.4.jar",
       "sha1": "ab3a032dc6d3ccddeb9b5423ae01c3e34b2ee26e",
       "size": 1196735
@@ -229,6 +234,16 @@
       "name": "speakepie_biggerstack-1.21.1-NeoForge-2026.06.11.jar",
       "sha1": "5218b37953390577b8e8633e95fc57e36a81d3b4",
       "size": 905836
+    },
+    {
+      "name": "tacz_aero_compat-1.8.0.jar",
+      "sha1": "119204f6baf382da70903db2c16d7ddde4adbe69",
+      "size": 263901
+    },
+    {
+      "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "sha1": "c70e8f638bede79ab8a85c891c464097b3100055",
+      "size": 57242132
     },
     {
       "name": "tracks-neoforge-1.21.1-1.0.1.jar",
