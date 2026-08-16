@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:deagle_golden_long_barrel"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

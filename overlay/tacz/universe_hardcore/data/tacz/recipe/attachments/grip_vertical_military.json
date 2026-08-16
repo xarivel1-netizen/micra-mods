@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:grip_vertical_military"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

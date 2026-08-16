@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      },
+      "count": 5
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:scar_l"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

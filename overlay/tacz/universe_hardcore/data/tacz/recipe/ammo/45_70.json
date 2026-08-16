@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 8
+    },
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 3
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "group": "lc_specialized",
+    "id": "tacz:45_70",
+    "count": 36
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

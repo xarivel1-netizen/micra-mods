@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:iron_sheet"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:muzzle_silencer_ursus"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

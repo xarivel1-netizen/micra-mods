@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "tag": "c:glass_panes"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:scope_elcan_4x"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

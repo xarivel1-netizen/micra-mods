@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 20
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      },
+      "count": 7
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "item": "aeroworks:yoke_module"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:sks_tactical",
+    "attachments": {
+      "stock": "tacz:stock_m4ss"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

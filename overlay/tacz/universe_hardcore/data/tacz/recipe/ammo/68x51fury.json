@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 6
+    },
+    {
+      "item": {
+        "item": "create:andesite_alloy"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "group": "ifp_rifle_cartridges",
+    "id": "tacz:68x51fury",
+    "count": 40
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

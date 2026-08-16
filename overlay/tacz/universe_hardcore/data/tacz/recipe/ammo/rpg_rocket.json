@@ -1,0 +1,35 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 16
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "ammo",
+    "group": "explosives",
+    "id": "tacz:rpg_rocket",
+    "count": 3
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

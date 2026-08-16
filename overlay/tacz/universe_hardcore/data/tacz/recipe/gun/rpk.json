@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 24
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      },
+      "count": 10
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "aeroworks:yoke_module"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:rpk",
+    "attachments": {
+      "stock": "tacz:oem_stock_heavy"
+    }
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

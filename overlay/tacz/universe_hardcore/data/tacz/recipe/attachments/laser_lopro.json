@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 3
+    },
+    {
+      "item": {
+        "tag": "c:dusts/redstone"
+      },
+      "count": 8
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:laser_lopro"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

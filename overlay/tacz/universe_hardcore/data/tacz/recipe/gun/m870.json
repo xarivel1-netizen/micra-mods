@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 12
+    },
+    {
+      "item": {
+        "item": "create:iron_sheet"
+      },
+      "count": 14
+    },
+    {
+      "item": {
+        "item": "create:precision_mechanism"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "item": "create:electron_tube"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "gun",
+    "id": "tacz:m870"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

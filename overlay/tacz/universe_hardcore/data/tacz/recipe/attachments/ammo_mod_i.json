@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "create:brass_sheet"
+      },
+      "count": 4
+    },
+    {
+      "item": {
+        "tag": "c:gunpowders"
+      },
+      "count": 6
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "tacz:ammo_mod_i"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}
