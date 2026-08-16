@@ -1,0 +1,7 @@
+[speakepiebiggerstack]
+	#Maximum stack size for items that already stack above 1.
+	#Default is 100.
+	#Valid range is 64 to 1000000. Changes require a game restart.
+	# Default: 100
+	# Range: 64 ~ 1000000
+	maxStackSize = 256
