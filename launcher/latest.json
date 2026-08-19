@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.9",
-    "sha1":  "c208ca6047c25867b0f558f57baf660852bb22df",
-    "notes":  "Fabric 26.2 в библиотеке: Sodium/Iris/BSL/Fresh Animations + Punchy. Авто-установка Java 25. Мультисборки."
+    "version":  "1.0.10",
+    "sha1":  "b7116d863bf59feeaedaef9a9bbb7ffb9e5ac8e2",
+    "notes":  "Диагностика ошибок запуска (полный текст + launch-error.log) и обход травления DNS через DoH при TLS-сбое."
 }
