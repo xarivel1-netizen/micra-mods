@@ -1,0 +1,6 @@
+﻿{
+  "builds": [
+    { "id": "create-aero", "repo": "https://raw.githubusercontent.com/xarivel1-netizen/micra-mods/main/" },
+    { "id": "universe-fabric", "repo": "https://raw.githubusercontent.com/xarivel1-netizen/universe-fabric/main/" }
+  ]
+}
