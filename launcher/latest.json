@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.10",
-    "sha1":  "b7116d863bf59feeaedaef9a9bbb7ffb9e5ac8e2",
-    "notes":  "Диагностика ошибок запуска (полный текст + launch-error.log) и обход травления DNS через DoH при TLS-сбое."
+    "version":  "1.0.11",
+    "sha1":  "5bddfb5b72596f469dae0eb82cc77043b9e704ce",
+    "notes":  "Java качается с GitHub-зеркала (обход блокировки api.adoptium.net у некоторых провайдеров)."
 }
