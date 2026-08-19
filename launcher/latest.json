@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.8",
-    "sha1":  "d990ca57c822df95b75f5e932604a849ae9ff137",
-    "notes":  "Хардкорные крафты TACZ через Create"
+    "version":  "1.0.9",
+    "sha1":  "c208ca6047c25867b0f558f57baf660852bb22df",
+    "notes":  "Fabric 26.2 в библиотеке: Sodium/Iris/BSL/Fresh Animations + Punchy. Авто-установка Java 25. Мультисборки."
 }
